@@ -1,0 +1,18 @@
+[theme]
+# Light, mature executive theme
+base = "light"
+
+# Primary brand color (buttons, toggles, highlights)
+primaryColor = "#4f46e5"        # Muted Indigo Blue
+
+# App background
+backgroundColor = "#f5f7fb"     # Soft light background
+
+# Sidebar & widget background
+secondaryBackgroundColor = "#ffffff"
+
+# Default text color
+textColor = "#0f172a"           # Deep slate
+
+# Font choice
+font = "sans serif"
