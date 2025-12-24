@@ -9,7 +9,7 @@ This project simulates **one full year of realistic supermarket operations data*
 
 ## Live Dashboard
 Access the live interactive dashboard here:  
-**https://your-streamlit-app-link**
+**https://supermarket-dashboard-app.streamlit.app/**
 
 ---
 
@@ -24,6 +24,7 @@ Access the live interactive dashboard here:
 ### Cost & Profitability Analysis
 ![Cost Analysis](images/im3.png)
 
+## Sales & Demand Pattern
 ![Cost Analysis](images/im4.png)
 
 ---
@@ -101,34 +102,6 @@ This dashboard was built to **solve these problems through data**.
 
 ---
 
-## Project Structure
-
-```
-
-project_root/
-│
-├── app.py
-├── data_loader.py
-├── data.xlsx
-├── pages/
-│   ├── 1_Executive_Overview.py
-│   ├── 2_Inventory_Health.py
-│   ├── 3_Sales_Performance.py
-│   └── 4_Cost_Profitability.py
-│
-├── assets/
-│   └── images/
-│       ├── executive_overview.png
-│       ├── inventory_health.png
-│       └── cost_profitability.png
-│
-└── .streamlit/
-└── config.toml
-
-```
-
----
-
 ## Why This Project Stands Out
 
 - Built around **real managerial questions**, not toy metrics
@@ -142,7 +115,7 @@ project_root/
 ## Author
 
 **Rejoice Chinwendu**  
-Data Analyst | BI & Analytics  
+Data Analyst | Data Scientist | BI & Analytics  
 Focused on building data products that drive operational and financial decisions
 
 ---
@@ -153,15 +126,4 @@ Focused on building data products that drive operational and financial decisions
 - Forecasting and demand prediction
 - Supplier performance analytics
 - Migration from Excel to SQL backend
-```
 
----
-
-If you want, I can also:
-
-* Rewrite this README for **US-based recruiters**
-* Optimize it for **Data Analyst vs Data Scientist roles**
-* Help you write a **LinkedIn launch post** that links to this repo
-* Review your repo structure before publishing
-
-Just say the word.
